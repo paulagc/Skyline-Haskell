@@ -1,3 +1,3 @@
-# Skyline-Haskell
+# Skyline-Haskell-Prolog
 
-This Haskell script gives the skyline of the city given the coordenates of the buildings. This programming practice implements the algorithm divide and conquer.
+These Haskell and Prolog scripts give the skyline of the city given the coordenates of the buildings. These programming practices implement the algorithm divide and conquer.
